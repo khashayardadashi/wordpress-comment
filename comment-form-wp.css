@@ -1,0 +1,82 @@
+.comment-form-cookies-consent{
+	display:none;
+}
+#respond{
+	background:#fff;
+}
+.comment-form-url{
+	display:none;
+}
+.form-submit .submit{
+	  background: #0D47A1;
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    font-family: 'یکان';
+    font-weight: 700;
+    border-radius: 15px;
+	  margin-top :10px;
+	  border:0px;
+
+}
+
+.form-submit .submit:hover{
+	background:#FFA000;
+	border:0px;
+	color:white;
+}
+.comment-form-email #email{
+	width:100%;
+  padding: 10px;
+  color: #000;
+	font-family: 'یکان';
+  font-weight: 700;
+	 border-radius: 15px;
+	 margin-top:5px;
+}
+.comment-form-author #author{
+		width:100%;
+  padding: 10px;
+  color: #000;
+	font-family: 'یکان';
+  font-weight: 700;
+	 border-radius: 15px;
+	 margin-top:5px;
+}
+.comment-notes{
+	font-family:'یکان';
+	font-weight:700;
+	color:red;
+}
+.comment-form-comment #comment{
+	max-width:100%;
+  padding: 10px;
+  color: #000;
+	font-family: 'یکان';
+  font-weight: 700;
+	 border-radius: 15px;
+	 margin-top:5px;
+}
+.comment-form-author label{
+	font-family:'یکان';
+	font-weight: 700;
+}
+.comment-form-email label{
+	font-family:'یکان';
+	font-weight: 700;
+}
+.comment-form-comment label{
+	font-family:'یکان';
+	font-weight: 700;
+}
+#reply-title{
+	font-family:'یکان';
+	font-weight: 800;
+}
+.logged-in-as{
+	font-family:'یکان';
+	font-weight: 700;
+}
+.logged-in-as a{
+	color:red;
+}
