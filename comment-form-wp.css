@@ -80,3 +80,24 @@
 .logged-in-as a{
  color:red;
 }
+.comment-content{
+	  font-size: 15px;
+    font-family: 'یکان';
+    font-weight: 700;
+}
+.comment-metadata{
+	color:red;
+	font-family:'یکان';
+	font-weight:700;
+	font-size:15px !important;
+}
+.reply{
+	color:red;
+	font-family:'یکان';
+	font-weight:700;
+	font-size:15px !important;
+}
+.says{
+	font-family:'یکان';
+	font-weight:700;
+}
