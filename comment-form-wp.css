@@ -111,9 +111,12 @@ padding:20px;
 border-radius:20px;
 margin:10px 0px 10px 0px;
 }
-#comments .comment.avatar{
-	margin-right:10px
-	!important;}
+body.rtl #comments .comment .avatar, body.rtl #comments .pingback .avatar {
+    left: auto;
+    right: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+}
 .comment-edit-link{
 	margin-left:10px !important;
 }
