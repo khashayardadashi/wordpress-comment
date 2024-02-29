@@ -1,3 +1,2 @@
-استایل دهی به فرم نظرات وردپرس
-
-برای استفاده محتویات فایل css بالا را در سفارش سازی بخش css اضافی کپی کنید و سپس دکمه انتشار بزنید
+## WordPress comment form styling 
+Just put these codes in the ordering section of the template
